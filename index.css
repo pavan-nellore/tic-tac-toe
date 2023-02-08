@@ -1,0 +1,20 @@
+*{
+    background-color: #cec;
+    font-style: italic;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.cell {
+    width:70px;
+    height: 70px;
+    font-size: 40px;
+}
+
+.row {
+    display: flex;
+}
